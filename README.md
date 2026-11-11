@@ -1,5 +1,5 @@
 # WORKING WITH EBS
-## NAME: yukesh s
+## NAME: YUKESH S
 ## REG NO: 212225100062
 
 ## Aim
